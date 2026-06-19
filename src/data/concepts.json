@@ -1,0 +1,282 @@
+[
+  {
+    "concept": "Natural Selection",
+    "theme": "Biology",
+    "aliases": ["darwinian selection", "survival of the fittest", "darwin's theory of evolution"],
+    "definition": "A process by which individuals with traits better suited to their environment survive and reproduce more, causing those traits to become more common in a population over generations.",
+    "clues": [
+      "First formally described in a landmark 1859 publication, this process had been independently conceived by two scientists at nearly the same time.",
+      "It acts on heritable variation within a population, causing some individuals to leave more descendants than others.",
+      "Traits that improve survival or reproduction become more common across generations through this mechanism.",
+      "Charles Darwin is most closely associated with this idea, which he spent over 20 years refining before publishing.",
+      "Often summarized as 'survival of the fittest,' it explains why organisms become better adapted to their environments over time."
+    ],
+    "explainer": "Natural selection is the engine of evolution — individuals with traits better suited to their environment tend to survive and reproduce more, passing those traits on. Darwin detailed it in On the Origin of Species, though Alfred Russel Wallace independently arrived at the same idea."
+  },
+  {
+    "concept": "Supply and Demand",
+    "theme": "Economics",
+    "aliases": ["law of supply and demand", "supply demand"],
+    "definition": "The relationship between how much of a good producers want to sell and how much consumers want to buy, which together determine its market price.",
+    "clues": [
+      "This foundational economic relationship was formalized in the 19th century, though its logic had been described centuries earlier.",
+      "It predicts how the price of a good changes when either producers or consumers shift their behavior.",
+      "When one side of this relationship increases while the other stays constant, the price moves in a predictable direction.",
+      "Adam Smith's 'invisible hand' relies on this principle to explain how markets self-regulate without central control.",
+      "If there are more buyers than available goods, prices go up. If more goods than buyers, prices fall. This is the core of this concept."
+    ],
+    "explainer": "Supply and demand describes how the quantity producers want to sell and the quantity consumers want to buy interact to set prices. When supply outpaces demand, prices fall; when demand outpaces supply, prices rise. It's the foundation of market economics."
+  },
+  {
+    "concept": "The Turing Test",
+    "theme": "Technology",
+    "aliases": ["turing test", "imitation game"],
+    "definition": "A test proposed by Alan Turing in which a human judge converses via text with both a human and a machine, and must determine which is which.",
+    "clues": [
+      "Proposed in 1950 in a paper titled 'Computing Machinery and Intelligence,' this evaluation was originally called the 'imitation game.'",
+      "It involves a human judge, a human participant, and a machine — all communicating only through text.",
+      "If the judge cannot reliably tell which participant is the machine, the machine is said to have passed it.",
+      "It was designed to sidestep philosophical debates about machine consciousness by focusing on observable behavior.",
+      "Named after its British mathematician creator, it remains the most famous benchmark for artificial intelligence."
+    ],
+    "explainer": "The Turing Test, proposed by Alan Turing in 1950, asks whether a machine can exhibit intelligent behavior indistinguishable from a human's. A judge chats via text with a human and a machine — if the judge can't reliably tell them apart, the machine passes. It remains a touchstone in AI philosophy."
+  },
+  {
+    "concept": "Cognitive Dissonance",
+    "theme": "Psychology",
+    "aliases": ["dissonance"],
+    "definition": "The psychological discomfort of holding contradictory beliefs or acting against one's own values, typically resolved through rationalization rather than genuine change.",
+    "clues": [
+      "Introduced in 1957 by Leon Festinger after he infiltrated a doomsday cult and studied how members responded when the prophecy failed.",
+      "It describes the mental discomfort produced when a person holds two or more contradictory beliefs simultaneously.",
+      "People experiencing this tend to resolve it not by abandoning a belief, but by rationalizing or finding new justifications.",
+      "Smokers who know smoking is harmful but continue the habit often exhibit this phenomenon.",
+      "The term literally means 'conflicting sounds' — it describes the psychological tension between contradictory thoughts or behaviors."
+    ],
+    "explainer": "Cognitive dissonance is the discomfort felt when holding contradictory beliefs or when behavior conflicts with values. Rather than changing the behavior, people often rationalize their way out of the tension. Festinger discovered it by studying a cult whose members didn't lose faith after their apocalyptic predictions failed."
+  },
+  {
+    "concept": "The Big Bang",
+    "theme": "Physics",
+    "aliases": ["big bang theory", "big bang model"],
+    "definition": "The prevailing cosmological model holding that the universe originated from an extremely hot, dense state about 13.8 billion years ago and has been expanding ever since.",
+    "clues": [
+      "The name for this theory was coined sarcastically by a critic in a 1949 BBC radio broadcast — the name stuck despite the mockery.",
+      "Evidence for it includes the observed expansion of the universe, the cosmic microwave background radiation, and the abundance of light elements.",
+      "It describes the universe not as exploding into pre-existing space, but as space itself expanding from an extremely hot, dense state.",
+      "It occurred approximately 13.8 billion years ago and is considered the origin of all matter, energy, space, and time.",
+      "The prevailing cosmological model for the origin and evolution of the universe, it predicts the universe is still expanding today."
+    ],
+    "explainer": "The Big Bang theory holds that the universe originated about 13.8 billion years ago from an extraordinarily hot, dense state and has been expanding ever since. The cosmic microwave background radiation — faint heat left over from the early universe — is its strongest piece of evidence."
+  },
+  {
+    "concept": "Opportunity Cost",
+    "theme": "Economics",
+    "aliases": ["opportunity costs"],
+    "definition": "The value of the best alternative foregone whenever a choice is made — what you give up, even when no money changes hands.",
+    "clues": [
+      "This concept is central to economic reasoning but is frequently overlooked in everyday decision-making.",
+      "It applies even when no money changes hands — time, attention, and resources all have this associated with them.",
+      "Economists argue that every choice implicitly involves this, even if it's never written on any price tag.",
+      "If you spend Saturday studying, the value of what you gave up — sleeping, socializing, working — represents this.",
+      "It refers to the value of the next best alternative you forgo whenever you make any choice."
+    ],
+    "explainer": "Opportunity cost is what you give up when you choose one option over another. Every decision has one, even if no money changes hands — choosing to sleep in means forgoing productive morning hours. It's why economists say 'there's no such thing as a free lunch.'"
+  },
+  {
+    "concept": "Game Theory",
+    "theme": "Mathematics",
+    "aliases": ["game theory economics"],
+    "definition": "The mathematical study of strategic decision-making among rational agents whose outcomes each depend on the choices of the others.",
+    "clues": [
+      "Formalized in a 1944 book by John von Neumann and Oskar Morgenstern, it has since been applied to economics, evolutionary biology, and political science.",
+      "Its most famous result — the Nash Equilibrium — was developed by a mathematician who later won a Nobel Prize and inspired the film A Beautiful Mind.",
+      "It studies situations where the outcome for each participant depends on the choices of all other participants.",
+      "The Prisoner's Dilemma is its most well-known illustrative scenario, showing why rational individuals may not cooperate.",
+      "This branch of mathematics models strategic interaction — how rational agents make decisions when other agents' choices affect their own outcomes."
+    ],
+    "explainer": "Game theory is the mathematical study of strategic decision-making among rational agents. When your best choice depends on what others do, game theory provides a framework for analyzing outcomes. John Nash's equilibrium concept — where no player benefits from changing strategy alone — earned him a Nobel Prize in Economics."
+  },
+  {
+    "concept": "Confirmation Bias",
+    "theme": "Psychology",
+    "aliases": ["confirmatory bias", "myside bias"],
+    "definition": "The tendency to seek out, interpret, and remember information in ways that confirm what you already believe, while discounting contradictory evidence.",
+    "clues": [
+      "Extensively studied in psychology since the 1960s, it was first demonstrated by Peter Wason using a simple card-sorting task most people fail.",
+      "It causes people to search more effectively for information that agrees with them than for information that challenges them.",
+      "Social media algorithms have been criticized for amplifying this tendency by feeding users content that matches their existing views.",
+      "Scientists design double-blind experiments specifically to counteract it — otherwise researchers unconsciously skew results.",
+      "This cognitive bias leads people to favor information that confirms what they already believe and ignore evidence to the contrary."
+    ],
+    "explainer": "Confirmation bias is the tendency to search for, interpret, and remember information in a way that confirms pre-existing beliefs. It affects everyone and shapes everything from medical diagnoses to political opinions. Peter Wason's selection task in 1960 was the first controlled demonstration of how systematically it distorts reasoning."
+  },
+  {
+    "concept": "Photosynthesis",
+    "theme": "Biology",
+    "aliases": [],
+    "definition": "The process by which plants, algae, and some bacteria use sunlight, water, and carbon dioxide to produce glucose and release oxygen.",
+    "clues": [
+      "The chemical equation for this process was not fully understood until the 20th century, though Jan Baptist van Helmont laid early groundwork in the 1600s.",
+      "It takes place primarily in a specialized organelle found only in plant cells and certain algae.",
+      "The process has two stages: a light-dependent stage that captures energy, and a light-independent stage called the Calvin cycle.",
+      "It releases a byproduct into the atmosphere that most life on Earth depends on for respiration.",
+      "Plants, algae, and some bacteria use sunlight, water, and carbon dioxide to produce glucose and oxygen through this process."
+    ],
+    "explainer": "Photosynthesis is how plants convert light energy into chemical energy stored as glucose, releasing oxygen as a byproduct. It occurs in chloroplasts and consists of light reactions (which capture energy) and the Calvin cycle (which builds sugar). Virtually all complex life on Earth depends on it, directly or indirectly."
+  },
+  {
+    "concept": "The Placebo Effect",
+    "theme": "Medicine",
+    "aliases": ["placebo effect", "placebo"],
+    "definition": "A genuine, measurable improvement in a patient's condition caused by belief in a treatment rather than by any active ingredient.",
+    "clues": [
+      "It has been documented since at least the 18th century, when a physician used bread pills to expose quack remedies — and found they sometimes worked.",
+      "The effect is measurable and real — patients can show genuine physiological changes, not just reported improvements.",
+      "Modern clinical trials use a control group that receives an inert treatment specifically to measure and subtract its influence.",
+      "Its strength varies with the color and size of the pill, the authority of the doctor, and even the price of the treatment.",
+      "When patients improve after receiving an inactive treatment — such as a sugar pill — believing it to be real medicine, this is the explanation."
+    ],
+    "explainer": "The placebo effect occurs when a patient experiences a genuine improvement after receiving an inert treatment, driven by expectation and belief. It's powerful enough that all drug trials require a placebo control group to isolate whether a real drug works beyond it. The mind's ability to produce measurable physical change is its most fascinating implication."
+  },
+  {
+    "concept": "The Dunning-Kruger Effect",
+    "theme": "Psychology",
+    "aliases": ["dunning kruger", "dunning-kruger"],
+    "definition": "A cognitive bias in which people with limited knowledge in a domain overestimate their competence, while genuine experts tend to underestimate theirs.",
+    "clues": [
+      "Named after a 1999 study inspired partly by a bank robber who rubbed lemon juice on his face believing it would make him invisible to cameras.",
+      "The original paper found that low performers in tests of logic and grammar dramatically overestimated their own scores.",
+      "Experts tend to exhibit the opposite pattern — they often underestimate their performance relative to peers.",
+      "It is sometimes summarized as: the less you know, the more confident you feel; the more you know, the more you doubt yourself.",
+      "This cognitive bias describes the tendency of people with limited knowledge to overestimate their own competence."
+    ],
+    "explainer": "The Dunning-Kruger effect, described by psychologists David Dunning and Justin Kruger in 1999, is the finding that people with limited knowledge in a domain tend to overestimate their ability — partly because they lack the skills to recognize their own mistakes. Genuine experts, by contrast, often underestimate themselves."
+  },
+  {
+    "concept": "Utilitarianism",
+    "theme": "Philosophy",
+    "aliases": ["utilitarian", "greatest happiness principle"],
+    "definition": "The moral theory that the right action is whichever produces the greatest well-being for the greatest number of people.",
+    "clues": [
+      "Its two founding figures were an 18th-century British philosopher who requested that his body be preserved and displayed after death, and his godson who refined the theory.",
+      "It was controversially applied to justify policies that harm a minority if the resulting benefit to the majority is large enough.",
+      "The trolley problem is one of the most famous thought experiments designed to probe the limits of this ethical framework.",
+      "John Stuart Mill refined the original version by distinguishing between higher and lower pleasures — not all happiness counts equally.",
+      "This moral theory holds that the right action is whichever produces the greatest good for the greatest number of people."
+    ],
+    "explainer": "Utilitarianism, developed by Jeremy Bentham and refined by John Stuart Mill, judges actions by their outcomes — specifically whether they maximize overall happiness or well-being. It's the philosophical foundation of cost-benefit analysis and much of modern public policy, but faces hard questions when maximizing aggregate welfare requires harming individuals."
+  },
+  {
+    "concept": "The Cold War",
+    "theme": "History",
+    "aliases": ["cold war"],
+    "definition": "A decades-long geopolitical rivalry between the United States and the Soviet Union, fought through proxy wars, an arms race, and ideological competition rather than direct military conflict.",
+    "clues": [
+      "The term was coined in 1945 by George Orwell in an essay about nuclear weapons, and was popularized by journalist Walter Lippmann in 1947.",
+      "Despite involving two nuclear-armed superpowers, it was characterized by the absence of direct large-scale armed conflict between them.",
+      "Proxy conflicts, intelligence operations, an arms race, and a space race all defined this period of geopolitical tension.",
+      "It lasted from roughly 1947 to 1991, when one of the two main participants was formally dissolved.",
+      "A decades-long geopolitical standoff between the United States and the Soviet Union that shaped global politics without ever becoming a 'hot' war."
+    ],
+    "explainer": "The Cold War (1947–1991) was the sustained ideological and geopolitical rivalry between the United States and the Soviet Union. Neither side ever directly fought the other, but the conflict played out through proxy wars, nuclear brinkmanship, and the space race. It ended with the dissolution of the Soviet Union in 1991."
+  },
+  {
+    "concept": "Keynesian Economics",
+    "theme": "Economics",
+    "aliases": ["keynesianism", "keynes", "keynesian theory"],
+    "definition": "The theory that government fiscal policy — especially deficit spending during downturns — can stabilize aggregate demand and prevent prolonged recessions.",
+    "clues": [
+      "It emerged as a direct response to the Great Depression, challenging the classical view that markets always self-correct quickly.",
+      "Its central claim — that aggregate demand drives economic output — implied that recessions could persist indefinitely without outside intervention.",
+      "It provided the theoretical justification for government stimulus spending, deficits during downturns, and active monetary policy.",
+      "Milton Friedman's monetarism and later supply-side economics rose partly as counterarguments to this school of thought.",
+      "Named after a British economist who argued that governments should spend more during recessions to stabilize the economy."
+    ],
+    "explainer": "Keynesian economics, developed by John Maynard Keynes during the 1930s, argues that private sector demand can fall short and that government spending can fill the gap. It provided the intellectual foundation for New Deal–style interventions and remains influential in debates about fiscal stimulus and recession policy."
+  },
+  {
+    "concept": "Comparative Advantage",
+    "theme": "Economics",
+    "aliases": ["law of comparative advantage"],
+    "definition": "The principle that parties should specialize in producing what they can make at the lowest relative cost and trade for the rest, even if one party is more efficient at everything.",
+    "clues": [
+      "David Ricardo introduced this concept in 1817 to explain why trade benefits nations even when one country can produce everything more efficiently than another.",
+      "It is often considered one of the most counterintuitive — yet powerful — insights in all of economics.",
+      "The principle shows that a country should specialize in what it produces at the lowest relative cost, not absolute cost.",
+      "Even if a lawyer is a faster typist than her assistant, it still makes sense for her to specialize in legal work.",
+      "This economic principle explains why free trade benefits all parties even if one side is better at producing everything."
+    ],
+    "explainer": "Comparative advantage, introduced by David Ricardo, holds that countries should specialize in goods where they have a lower opportunity cost — even if they're not absolutely better at producing them. It's the core argument for free trade and one of economics' most elegant counterintuitive results."
+  },
+  {
+    "concept": "Quantum Entanglement",
+    "theme": "Physics",
+    "aliases": ["entanglement", "quantum nonlocality"],
+    "definition": "A quantum phenomenon in which two particles become correlated such that measuring one instantly determines properties of the other, regardless of the distance between them.",
+    "clues": [
+      "Einstein famously dismissed this as 'spooky action at a distance' and used it to argue that quantum mechanics must be incomplete.",
+      "Bell's theorem, developed in 1964, provided a way to test whether this phenomenon is real or an artifact of hidden variables — experiments have confirmed it is real.",
+      "Measuring one particle instantly determines properties of its partner, regardless of the distance separating them.",
+      "It does not allow faster-than-light communication, because the results of individual measurements are still random.",
+      "When two particles interact and then separate, their quantum states remain correlated — measuring one instantly affects what you find when measuring the other."
+    ],
+    "explainer": "Quantum entanglement occurs when two particles become correlated so that measuring one instantly determines properties of the other, no matter how far apart they are. Einstein called it 'spooky action at a distance' and doubted it was real, but experiments following Bell's 1964 theorem confirmed it. It's now the basis of quantum cryptography and quantum computing."
+  },
+  {
+    "concept": "The Scientific Method",
+    "theme": "Science",
+    "aliases": ["scientific method", "hypothetico-deductive method"],
+    "definition": "A systematic framework for building reliable knowledge through observation, hypothesis formation, controlled experimentation, and revision based on evidence.",
+    "clues": [
+      "While ancient Greek philosophers laid groundwork, its modern form was systematized in the 17th century by figures including Francis Bacon and René Descartes.",
+      "Karl Popper's criterion of falsifiability — a claim must be disprovable to count as science — is one of its most influential philosophical refinements.",
+      "It distinguishes science from pseudoscience by requiring that explanations be testable, repeatable, and subject to revision by evidence.",
+      "The sequence of steps involves making an observation, forming a hypothesis, testing it through experiment, and revising based on results.",
+      "This structured approach to acquiring knowledge involves forming hypotheses and testing them through controlled experiments."
+    ],
+    "explainer": "The scientific method is the systematic framework for building reliable knowledge about the world — observe, hypothesize, test, and revise. It emerged in the 17th century and distinguishes science from other ways of knowing by requiring that claims be testable and falsifiable. Its self-correcting nature is what makes scientific knowledge cumulative."
+  },
+  {
+    "concept": "The Social Contract",
+    "theme": "Philosophy",
+    "aliases": ["social contract theory"],
+    "definition": "The idea that legitimate political authority derives from an implicit agreement among individuals to surrender certain freedoms in exchange for social order and protection.",
+    "clues": [
+      "Three philosophers — Thomas Hobbes, John Locke, and Jean-Jacques Rousseau — each developed distinct versions of this idea in the 17th and 18th centuries.",
+      "Hobbes used it to justify absolute monarchy; Locke used it to justify the right to revolution; Rousseau used it to argue for popular sovereignty.",
+      "It begins from a thought experiment about what life would be like without any government — a 'state of nature.'",
+      "The US Declaration of Independence draws heavily on the Lockean version: governments derive their just powers from the consent of the governed.",
+      "This political philosophy concept holds that individuals agree — implicitly or explicitly — to give up some freedoms in exchange for social order and protection."
+    ],
+    "explainer": "The social contract is the idea that legitimate political authority rests on an agreement among individuals to form a society and accept its rules in exchange for security and rights. Hobbes, Locke, and Rousseau each imagined this contract differently, and their versions shaped modern democracy, liberalism, and revolutionary thought."
+  },
+  {
+    "concept": "Moore's Law",
+    "theme": "Technology",
+    "aliases": ["moores law"],
+    "definition": "The observation that the number of transistors on a microchip doubles roughly every two years, driving decades of exponential growth in computing power and declining cost.",
+    "clues": [
+      "Made as an observation in a 1965 magazine article, it was later reformulated and named an industry 'law' — though it was always an empirical trend, not a physical constant.",
+      "It has been used by the semiconductor industry as a planning target for decades, becoming a self-fulfilling prophecy as companies engineered to meet it.",
+      "As transistors approach the size of individual atoms, many engineers argue this trend is finally reaching its physical limits.",
+      "Intel co-founder Gordon Moore made this observation about the number of components that could fit on an integrated circuit.",
+      "This famous rule of thumb states that the number of transistors on a microchip doubles roughly every two years, roughly halving the cost."
+    ],
+    "explainer": "Moore's Law, observed by Intel co-founder Gordon Moore in 1965, is the trend that the number of transistors on a chip doubles approximately every two years while costs fall. It drove decades of exponential growth in computing power and became an industry roadmap, though physical limits on transistor size are increasingly challenging its continuation."
+  },
+  {
+    "concept": "Occam's Razor",
+    "theme": "Philosophy",
+    "aliases": ["ockhams razor", "law of parsimony", "principle of parsimony"],
+    "definition": "The principle that, when multiple explanations fit the evidence equally well, the one requiring the fewest unnecessary assumptions should be preferred.",
+    "clues": [
+      "Named after a 14th-century English friar, though the underlying idea appears in ancient philosophy and was articulated by earlier medieval thinkers.",
+      "It is often misquoted as 'the simplest explanation is always correct' — the actual principle is more nuanced than that.",
+      "Scientists use it as a tiebreaker: when two theories explain the data equally well, prefer the one that requires fewer assumptions.",
+      "It does not guarantee truth — sometimes nature is genuinely complex — but it provides a default heuristic for hypothesis selection.",
+      "This philosophical principle states that among competing explanations, the one with the fewest unnecessary assumptions should be preferred."
+    ],
+    "explainer": "Occam's Razor is the principle that explanations should not multiply entities beyond necessity — when two theories fit the evidence equally well, prefer the simpler one. Named after William of Ockham, it's a core heuristic in science and philosophy, guiding researchers toward parsimonious hypotheses while remaining open to complexity when evidence demands it."
+  }
+]

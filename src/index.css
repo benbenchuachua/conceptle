@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    background: #ffffff;
+    color: #1a1a1b;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+  }
+}
+
+/* ── Shake (invalid guess) ── */
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  10%, 50%, 90% { transform: translateX(-6px); }
+  30%, 70% { transform: translateX(6px); }
+}
+.shake {
+  animation: shake 0.5s ease-in-out;
+}
+
+/* ── Clue card slide-in (new clue revealed) ── */
+@keyframes clue-in {
+  from { opacity: 0; transform: translateY(-8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.clue-in {
+  animation: clue-in 0.18s ease-out forwards;
+}
+
+/* ── Result squares flip ── */
+@keyframes flip {
+  0%   { transform: rotateX(0deg);   }
+  45%  { transform: rotateX(-90deg); }
+  55%  { transform: rotateX(-90deg); }
+  100% { transform: rotateX(0deg);   }
+}
+.flip {
+  animation: flip 0.5s ease-in-out forwards;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
