@@ -96,7 +96,11 @@ function Page({ streak, children }) {
           textTransform: 'uppercase',
           color: C.text,
         }}>
-          Conceptle
+          {'Conceptle'.split('').map((letter, i) => (
+            <span key={i} className="title-letter" style={{ animationDelay: `${i * 80}ms` }}>
+              {letter}
+            </span>
+          ))}
         </h1>
         {streak?.current > 0 && (
           <div style={{ position: 'absolute', right: 16, textAlign: 'right' }}>

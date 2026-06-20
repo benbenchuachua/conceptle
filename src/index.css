@@ -13,6 +13,17 @@
   }
 }
 
+/* ── Title wave (fires once on load) ── */
+@keyframes wave {
+  0%   { transform: translateY(0); }
+  40%  { transform: translateY(-10px); }
+  100% { transform: translateY(0); }
+}
+.title-letter {
+  display: inline-block;
+  animation: wave 0.55s ease-in-out both;
+}
+
 /* ── Shake (invalid guess) ── */
 @keyframes shake {
   0%, 100% { transform: translateX(0); }
