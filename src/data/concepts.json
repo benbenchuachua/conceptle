@@ -278,5 +278,89 @@
       "This philosophical principle states that among competing explanations, the one with the fewest unnecessary assumptions should be preferred."
     ],
     "explainer": "Occam's Razor is the principle that explanations should not multiply entities beyond necessity — when two theories fit the evidence equally well, prefer the simpler one. Named after William of Ockham, it's a core heuristic in science and philosophy, guiding researchers toward parsimonious hypotheses while remaining open to complexity when evidence demands it."
+  },
+  {
+    "concept": "The Trolley Problem",
+    "theme": "Philosophy",
+    "aliases": ["trolley problem", "trolley dilemma"],
+    "definition": "A thought experiment that forces a choice between pulling a lever to divert a runaway trolley — killing one person — or doing nothing and letting it kill five, used to probe the ethics of action versus inaction.",
+    "clues": [
+      "This thought experiment was first introduced by philosopher Philippa Foot in 1967.",
+      "It forces a choice between action and inaction when both lead to harm.",
+      "A lever, five people, and one person are the usual setup.",
+      "It's become a meme template as much as a serious ethics question.",
+      "Pulling the lever saves five lives but kills one — would you pull it?"
+    ],
+    "explainer": "The Trolley Problem is a thought experiment that pits utilitarian reasoning (save the most lives) against the moral weight of direct action (actively causing a death). It's used to probe how people reason about consequences versus intent."
+  },
+  {
+    "concept": "Compound Interest",
+    "theme": "Economics",
+    "aliases": ["compounding", "compound interest rate"],
+    "definition": "Interest calculated on both the original principal and the accumulated interest, causing savings or debt to grow exponentially rather than linearly over time.",
+    "clues": [
+      "Einstein allegedly called this the most powerful force in the universe, though that quote is likely apocryphal.",
+      "It grows exponentially rather than linearly.",
+      "The earlier you start, the more dramatic the effect becomes.",
+      "It's the reason a small amount invested young can outgrow a larger amount invested late.",
+      "It's interest calculated on both the principal and the interest already earned."
+    ],
+    "explainer": "Compound interest is interest earned on both your original amount and the interest that's already accumulated. Over long stretches of time, this compounding effect can turn small, consistent investments into large sums."
+  },
+  {
+    "concept": "The Tragedy of the Commons",
+    "theme": "Economics",
+    "aliases": ["tragedy of the commons", "commons dilemma"],
+    "definition": "The tendency for shared resources to be overexploited when individuals acting in self-interest each take more than their fair share, degrading the resource for everyone.",
+    "clues": [
+      "This concept was popularized by ecologist Garrett Hardin in a 1968 essay.",
+      "It explains why shared resources tend to get overused when no one owns them.",
+      "Overfishing in international waters is a textbook example.",
+      "It's a tension between individual incentive and collective good.",
+      "Shared grazing land gets destroyed because each herder adds 'just one more' animal."
+    ],
+    "explainer": "The Tragedy of the Commons describes how individuals acting in their own self-interest can deplete a shared resource, even when doing so harms everyone in the long run, including themselves."
+  },
+  {
+    "concept": "The Gutenberg Press",
+    "theme": "History",
+    "aliases": ["gutenberg printing press", "movable type", "printing press", "gutenberg"],
+    "definition": "A printing technology using movable metal type, invented by Johannes Gutenberg around 1440, that made mass book production possible and transformed the spread of literacy across Europe.",
+    "clues": [
+      "This invention is often cited as the single biggest catalyst for the spread of literacy in Europe.",
+      "It used movable metal type, a major leap from hand-copied manuscripts.",
+      "Before this, a single book could take a monk a year or more to copy by hand.",
+      "It made the mass production of the Bible possible for the first time.",
+      "Johannes Gutenberg invented it around 1440 in Germany."
+    ],
+    "explainer": "The Gutenberg Press was a printing technology using movable metal type, invented by Johannes Gutenberg around 1440. It made books dramatically cheaper and faster to produce, fueling the spread of literacy and ideas across Europe."
+  },
+  {
+    "concept": "Recursion",
+    "theme": "Technology",
+    "aliases": ["recursive function", "recursive algorithm"],
+    "definition": "A programming and mathematical technique in which a function solves a problem by calling itself on progressively smaller versions until reaching a base case that stops the chain.",
+    "clues": [
+      "This concept appears in both computer science and mathematics, often confusing beginners in both.",
+      "It involves a function or process that calls itself.",
+      "Without a proper base case, it leads to infinite loops or stack overflows.",
+      "Calculating a factorial is a classic example used to teach it.",
+      "It's when a function solves a problem by calling itself on a smaller version of that problem."
+    ],
+    "explainer": "Recursion is when a function calls itself to solve smaller instances of the same problem, eventually reaching a base case that stops the chain. It's a core concept in computer science, used in everything from sorting algorithms to tree traversal."
+  },
+  {
+    "concept": "Sunk Cost Fallacy",
+    "theme": "Economics",
+    "aliases": ["sunk cost", "sunk cost bias", "sunk cost effect"],
+    "definition": "The tendency to continue investing in something based on resources already spent rather than the actual future value of continuing, even when cutting losses would be the rational choice.",
+    "clues": [
+      "This reasoning error keeps people in bad relationships, bad investments, and bad movies.",
+      "It involves continuing a behavior because of resources already spent, not future value.",
+      "Rationally, only future costs and benefits should matter — but this bias ignores that.",
+      "Finishing a terrible book just because you're 'already 200 pages in' is a textbook case.",
+      "It's the tendency to keep investing in something because of what you've already put into it."
+    ],
+    "explainer": "The sunk cost fallacy is the tendency to continue an endeavor because of previously invested resources — time, money, effort — rather than the actual future value of continuing. Economically, sunk costs should be irrelevant to forward-looking decisions."
   }
 ]
