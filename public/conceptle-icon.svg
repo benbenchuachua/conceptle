@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="120" height="120" rx="24" fill="#8B5CF6"/>
+  <clipPath id="bulbClip">
+    <path d="M60 18 C40 18 26 32 26 50 C26 64 34 72 40 80 C44 85 46 90 46 96 L74 96 C74 90 76 85 80 80 C86 72 94 64 94 50 C94 32 80 18 60 18 Z"/>
+  </clipPath>
+  <g clip-path="url(#bulbClip)">
+    <rect x="20" y="14" width="80" height="82" fill="#FFFFFF" opacity="0.35"/>
+    <rect x="32" y="36" width="14" height="14" rx="2" fill="#FFFFFF"/>
+    <rect x="50" y="36" width="14" height="14" rx="2" fill="#FFFFFF"/>
+    <rect x="68" y="36" width="14" height="14" rx="2" fill="#FFFFFF" opacity="0.4"/>
+    <rect x="41" y="54" width="14" height="14" rx="2" fill="#FFFFFF"/>
+    <rect x="59" y="54" width="14" height="14" rx="2" fill="#FFFFFF" opacity="0.4"/>
+  </g>
+  <rect x="48" y="98" width="24" height="14" rx="3" fill="#FFFFFF"/>
+  <rect x="44" y="112" width="32" height="6" rx="3" fill="#FFFFFF"/>
+</svg>
