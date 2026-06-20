@@ -94,7 +94,7 @@ function Page({ streak, children }) {
           fontWeight: 700,
           letterSpacing: '0.2rem',
           textTransform: 'uppercase',
-          color: C.text,
+          color: '#3B6D11',
         }}>
           {'Conceptle'.split('').map((letter, i) => (
             <span key={i} className="title-letter" style={{ animationDelay: `${i * 80}ms` }}>

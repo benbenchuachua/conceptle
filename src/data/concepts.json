@@ -11,7 +11,7 @@
       "Charles Darwin is most closely associated with this idea, which he spent over 20 years refining before publishing.",
       "Often summarized as 'survival of the fittest,' it explains why organisms become better adapted to their environments over time."
     ],
-    "explainer": "Natural selection is the engine of evolution — individuals with traits better suited to their environment tend to survive and reproduce more, passing those traits on. Darwin detailed it in On the Origin of Species, though Alfred Russel Wallace independently arrived at the same idea."
+    "explainer": "Natural selection is the engine of evolution: individuals with traits better suited to their environment tend to survive and reproduce more, passing those traits on. Darwin detailed it in On the Origin of Species, though Alfred Russel Wallace independently arrived at the same idea."
   },
   {
     "concept": "Supply and Demand",
@@ -73,7 +73,7 @@
     "concept": "Opportunity Cost",
     "theme": "Economics",
     "aliases": ["opportunity costs"],
-    "definition": "The value of the best alternative foregone whenever a choice is made — what you give up, even when no money changes hands.",
+    "definition": "The value of the best alternative foregone whenever a choice is made: what you give up, even when no money changes hands.",
     "clues": [
       "This concept is central to economic reasoning but is frequently overlooked in everyday decision-making.",
       "It applies even when no money changes hands — time, attention, and resources all have this associated with them.",
@@ -185,7 +185,7 @@
     "concept": "Keynesian Economics",
     "theme": "Economics",
     "aliases": ["keynesianism", "keynes", "keynesian theory"],
-    "definition": "The theory that government fiscal policy — especially deficit spending during downturns — can stabilize aggregate demand and prevent prolonged recessions.",
+    "definition": "The theory that government fiscal policy, especially deficit spending during downturns, can stabilize aggregate demand and prevent prolonged recessions.",
     "clues": [
       "It emerged as a direct response to the Great Depression, challenging the classical view that markets always self-correct quickly.",
       "Its central claim — that aggregate demand drives economic output — implied that recessions could persist indefinitely without outside intervention.",
